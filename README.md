@@ -1,8 +1,8 @@
-<a href="https://zkeery.github.io/"><img src="./assets/header-editorial-lavender.svg" width="100%" alt="Zoe｜产品负责人 / AI 产品经理。从用户角度出发，让 AI 成为有用的产品。" /></a>
+<a href="https://zkeery.github.io/"><img src="./assets/header-zkeery-lavender.svg" width="100%" alt="Zkeery｜产品负责人 / AI 产品经理。从用户角度出发，让 AI 成为有用的产品。" /></a>
 
 ### 关于我 / Prologue
 
-你好，我是 Zoe，产品负责人 / AI 产品经理。关注需求背后的问题，也关注 AI 如何在真实场景中创造价值。
+你好，我是 Zkeery，产品负责人 / AI 产品经理。关注需求背后的问题，也关注 AI 如何在真实场景中创造价值。
 
 在这里记录对产品、技术和行业的观察，也思考如何把新的 AI 能力转化为用户愿意持续使用的体验。
 
