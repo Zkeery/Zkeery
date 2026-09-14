@@ -1,4 +1,4 @@
-<a href="https://zkeery.github.io/"><img src="./assets/header-zkeery-spinning.svg" width="100%" alt="Zkeery｜产品负责人 / AI 产品经理。从用户角度出发，让 AI 成为有用的产品。" /></a>
+<a href="https://zkeery.github.io/"><img src="./assets/header-zkeery-horizontal.svg" width="100%" alt="Zkeery｜产品负责人 / AI 产品经理。从用户角度出发，让 AI 成为有用的产品。" /></a>
 
 ### 关于我 / Prologue
 
