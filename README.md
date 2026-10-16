@@ -8,6 +8,17 @@
 
 ---
 
+### 代表作品 / Products
+
+| 产品 | 解决什么问题 | 我做的关键判断 |
+| --- | --- | --- |
+| [AI造梦机](https://github.com/Zkeery/ai-dream-machine) | 短视频、漫剧创作者改一个镜头，整部片子跟着返工 | 把一部作品当整体管：拆成剧本、角色、分镜、画面、成片几个阶段，每步确认再往下走，哪里不对只重做哪里 |
+| [Agent造物坊](https://github.com/Zkeery/agent-factory) | 有产品点子，但没法快速做出能试用的东西 | 先用对话把需求问清楚、定好验收场景，再让开发与验证两个 Agent 分工构建，人只做关键决策和最终试用 |
+| [AI办公搭子](https://github.com/Zkeery/AI-office-partner) | 周报、复盘、调研简报，大量时间花在整理材料上 | 单 Agent 先出计划、程序按步骤执行；结果可改章节、可恢复版本、可定时重复跑 |
+| [AI万物伙伴](https://github.com/Zkeery/ai-wanwu-companion) | 陪伴类产品聊几天就腻，记不住你 | 从一张日常物品照片生成伙伴，用可管理的记忆和生活场景，让陪伴慢慢长出来 |
+
+---
+
 ### 最近在写 / Notes & Thoughts
 
 2026-09-14 · AI 思考<br>
